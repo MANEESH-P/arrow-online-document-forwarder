@@ -1,0 +1,41 @@
+body{
+  background-image:linear-gradient(85deg  , #eeeeee , #42a5f5 )  ;
+
+
+}
+.login form{
+
+
+}
+.form_bg {
+    background-color:#b3e5fc;
+
+    padding:20px;
+    border-radius:10px;
+    position: absolute;
+
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 350px;
+    height: 400px;
+}
+
+
+.form_bg h2{
+  text-align: center;
+}
+.brand-logo{
+  margin-left: 15px;
+  font-family:'Satisfy', cursive;
+
+}
+.righthand{
+  padding-right: 15px;
+}
+
+.align-center{
+    text-align:center;
+}
