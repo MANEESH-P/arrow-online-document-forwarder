@@ -1,7 +1,14 @@
 body{
-  background-image:linear-gradient(85deg  , #eeeeee , #42a5f5 )  ;
+  /*background: url("images/3.jpg") no-repeat center center fixed;
+   background-size: cover;*/
+   background: linear-gradient( 85deg, rgba(0,130,170,0.2),rgba(0,130,170,1)),
+   url("images/3.jpg") no-repeat center center fixed;
+   background-size: cover;
 
+    /*background: linear-gradient( 85deg, rgba(0,130,170,0),rgba(0,130,170,1)) ,
+  url('./images/1');*/
 
+/*85deg  , #bbdefb , #1976d2  */
 }
 .login form{
 
@@ -38,4 +45,12 @@ body{
 
 .align-center{
     text-align:center;
+}
+.app_form{
+  margin-top: 50px;
+}
+.border{
+  padding: 15px;
+  padding-right: 25px;
+
 }
