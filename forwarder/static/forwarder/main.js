@@ -15,4 +15,5 @@ $(document).ready(function(e){
      $(document).ready(function() {
     $('select').material_select();
   });
+
   });
