@@ -10,3 +10,6 @@ def staff(request):
 
 def apply(request):
     return render(request, 'forwarder/application_form.html')
+
+def detail(request):
+    return render(request, 'forwarder/detail.html')
